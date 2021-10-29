@@ -16,7 +16,7 @@ Category.init(
       // Set as primary key
       primaryKey: true,
       // Uses auto increment
-      initialAutoIncrement: true
+      autoIncrement: true
     },
     // the column column name
     category_name:{

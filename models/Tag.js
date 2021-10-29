@@ -16,7 +16,7 @@ Tag.init(
       // Set as primary key
       primaryKey: true,
       // Uses auto increment
-      initialAutoIncrement: true
+      autoIncrement: true
     },
     // the column tag_name
     tag_name: {

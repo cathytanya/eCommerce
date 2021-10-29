@@ -19,7 +19,7 @@ Product.init(
       // Set as primary key
       primaryKey: true,
       // Uses auto increment
-      initialAutoIncrement: true
+      autoIncrement: true
     },
      // the column product_name
     product_name: {
